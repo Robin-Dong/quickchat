@@ -1,0 +1,2 @@
+FLASK_APP= quickchat
+FLASK_ENV=development
